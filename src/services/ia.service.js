@@ -61,7 +61,7 @@ async function getMessageGeminiInstance_(text_) {
     systemInstruction_ += "Los pasos siempre empiezan por 1 , algo entendible para el cliente por favor en cada respuesta.";
 
     const MODEL_NAME = "gemini-1.5-pro-latest";
-    const API_KEY = "";
+    const API_KEY = "AIzaSyCvB4JbjNOxjof5VlM-k5y-IPO-jFjpjjM";
 
     const genAI = new GoogleGenerativeAI(API_KEY);
     const model = genAI.getGenerativeModel({ 

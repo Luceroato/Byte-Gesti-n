@@ -18,7 +18,7 @@ function sendMessageWhatsap(txtResponse , number){
         body: data,
         headers: {
             'Content-Type': 'application/json',
-            Authorization: 'Bearer EAAazBitWn84BO2siSEEZALZCsn2U6jB3eIDevJkVb9vqrviWKACCx6UwWoBZAtdr1uiMIn4TpbnB0Hf0s6LmXYyZC0fuQrBl6iYOoee939MRhRq7NZCdGrZBFZAEjkfWk3zLoG3ZCJftHRWaKMuMeXfRTcVGyGJ0LVstmCMo9bgzeklL89PBMj7is5htgFS4s0Qk'
+            Authorization: 'Bearer EAANlRZABcfpEBOxDGG7MZBq5TZBeIav5m8n3uZA6XONhh4h2mQ52WsRY4PZA3uBryj3V3R2ssZC5xsFRynp7XRK39bHYrXFbAnLcDuKRnABZBy1pYZAqxscHZBAM1VZBkFt18YY9fyT7m3nzO1DOXWfgkQq49itYAwbCMdhyZAxrkbeXDIPPDWZAh3VVcTCvCco2mIJH'
         }
     };
 
